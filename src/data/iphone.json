@@ -1,0 +1,45 @@
+[
+    {
+        "type": "iPhone",
+        "bootrom": "Bootrom Rev.2",
+        "generation": "iPhone",
+        "ANumbers": [
+            "A1203"
+        ],
+        "FCCIDs": [
+            "BCGA1203"
+        ],
+        "internalName": "M68AP",
+        "identifiers": [
+            "iPhone1,1"
+        ],
+        "models": [
+            "MA501",
+            "MA712",
+            "MB384"
+        ],
+        "modelDetails": [
+            {
+                "models": [
+                    "MA501"
+                ],
+                "color": "Black",
+                "storage": "4 GB"
+            },
+            {
+                "models": [
+                    "MA712"
+                ],
+                "color": "Black",
+                "storage": "8 GB"
+            },
+            {
+                "models": [
+                    "MB384"
+                ],
+                "color": "Black",
+                "storage": "16 GB"
+            }
+        ]
+    }
+]
