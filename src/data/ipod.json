@@ -1,0 +1,1534 @@
+[
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch",
+        "models": [
+            "MA623",
+            "MA624",
+            "MA839"
+        ],
+        "aNumbers": [
+            "A1213"
+        ],
+        "fccIds": [
+            "BCGA1213"
+        ],
+        "internalName": "N45AP",
+        "identifier": "iPod1,1",
+        "color": "Black",
+        "storage": "8 GB",
+        "bootrom": "Bootrom Rev.2",
+        "modelsSearchable": "MA623,MA624,MA839"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch",
+        "models": [
+            "MA627",
+            "MA628"
+        ],
+        "aNumbers": [
+            "A1213"
+        ],
+        "fccIds": [
+            "BCGA1213"
+        ],
+        "internalName": "N45AP",
+        "identifier": "iPod1,1",
+        "color": "Black",
+        "storage": "16 GB",
+        "bootrom": "Bootrom Rev.2",
+        "modelsSearchable": "MA627,MA628"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch",
+        "models": [
+            "MB376"
+        ],
+        "aNumbers": [
+            "A1213"
+        ],
+        "fccIds": [
+            "BCGA1213"
+        ],
+        "internalName": "N45AP",
+        "identifier": "iPod1,1",
+        "color": "Black",
+        "storage": "32 GB",
+        "bootrom": "Bootrom Rev.2",
+        "modelsSearchable": "MB376"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (2nd generation)",
+        "models": [
+            "MB525",
+            "MB528",
+            "MB529"
+        ],
+        "aNumbers": [
+            "A1288",
+            "A1319"
+        ],
+        "fccIds": [
+            "BCGA1288"
+        ],
+        "internalName": "N72AP",
+        "identifier": "iPod2,1",
+        "color": "Black",
+        "storage": "8 GB",
+        "bootrom": "Bootrom 240.4",
+        "modelsSearchable": "MB525,MB528,MB529"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (2nd generation)",
+        "models": [
+            "MB531",
+            "MB532"
+        ],
+        "aNumbers": [
+            "A1288",
+            "A1319"
+        ],
+        "fccIds": [
+            "BCGA1288"
+        ],
+        "internalName": "N72AP",
+        "identifier": "iPod2,1",
+        "color": "Black",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 240.4",
+        "modelsSearchable": "MB531,MB532"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (2nd generation)",
+        "models": [
+            "MB533",
+            "MB534"
+        ],
+        "aNumbers": [
+            "A1288",
+            "A1319"
+        ],
+        "fccIds": [
+            "BCGA1288"
+        ],
+        "internalName": "N72AP",
+        "identifier": "iPod2,1",
+        "color": "Black",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 240.4",
+        "modelsSearchable": "MB533,MB534"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (2nd generation)",
+        "models": [
+            "MC086"
+        ],
+        "aNumbers": [
+            "A1288",
+            "A1319"
+        ],
+        "fccIds": [
+            "BCGA1288"
+        ],
+        "internalName": "N72AP",
+        "identifier": "iPod2,1",
+        "color": "Bootrom 240.5.1",
+        "storage": "8 GB",
+        "bootrom": "Bootrom 240.4",
+        "modelsSearchable": "MC086"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (3rd generation)",
+        "models": [
+            "MC008"
+        ],
+        "aNumbers": [
+            "A1318"
+        ],
+        "fccIds": [
+            "BCG-2310"
+        ],
+        "internalName": "N18AP",
+        "identifier": "iPod3,1",
+        "color": "Black",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 359.5",
+        "modelsSearchable": "MC008"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (3rd generation)",
+        "models": [
+            "MC011"
+        ],
+        "aNumbers": [
+            "A1318"
+        ],
+        "fccIds": [
+            "BCG-2310"
+        ],
+        "internalName": "N18AP",
+        "identifier": "iPod3,1",
+        "color": "Black",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 359.5",
+        "modelsSearchable": "MC011"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MC540"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "Black",
+        "storage": "8 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MC540"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "ME178"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "Black",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "ME178"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MC544"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "Black",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MC544"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MC547"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "Black",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MC547"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MD057"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "White",
+        "storage": "8 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MD057"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "ME179"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "White",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "ME179"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MD058"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "White",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MD058"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (4th generation)",
+        "models": [
+            "MD059"
+        ],
+        "aNumbers": [
+            "A1367"
+        ],
+        "fccIds": [
+            "BCG-E2407"
+        ],
+        "internalName": "N81AP",
+        "identifier": "iPod4,1",
+        "color": "White",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 574.4",
+        "modelsSearchable": "MD059"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD723"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Black & Slate",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD723"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD724"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Black & Slate",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD724"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGG32"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Blue",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGG32"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD717"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Blue",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD717"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD718"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Blue",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD718"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGFY2"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Pink",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGFY2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MC903"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Pink",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MC903"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MC904"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Pink",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MC904"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGG72"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "PRODUCT(RED)",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGG72"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD749"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "PRODUCT(RED)",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD749"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD750"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "PRODUCT(RED)",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD750"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGG52"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "White & Silver",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGG52"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD720",
+            "ME108[6]"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "White & Silver",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD720,ME108[6]"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD721"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "White & Silver",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD721"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGG82"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Space Gray",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGG82"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "ME978"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Space Gray",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "ME978"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "ME979"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Space Gray",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "ME979"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MGG12"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Yellow",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MGG12"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD714"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Yellow",
+        "storage": "32 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD714"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "MD715"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "N78AP",
+        "identifier": "iPod5,1",
+        "color": "Yellow",
+        "storage": "64 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "MD715"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (5th generation)",
+        "models": [
+            "ME643"
+        ],
+        "aNumbers": [
+            "A1421"
+        ],
+        "fccIds": [
+            "BCG-A1421"
+        ],
+        "internalName": "A1509",
+        "identifier": "N78aAP",
+        "color": "Black & Silver",
+        "storage": "16 GB",
+        "bootrom": "ROM",
+        "modelsSearchable": "ME643"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKH22"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Blue",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKH22"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHV2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Blue",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHV2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHE2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Blue",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHE2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWP2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Blue",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWP2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKH02"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Gold",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKH02"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHT2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Gold",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHT2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHC2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Gold",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHC2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWM2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Gold",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWM2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKGX2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Pink",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKGX2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHQ2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Pink",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHQ2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKGW2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Pink",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKGW2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWK2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Pink",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWK2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKH82"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "PRODUCT(RED)",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKH82"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKJ22"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "PRODUCT(RED)",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKJ22"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHN2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "PRODUCT(RED)",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHN2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWW2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "PRODUCT(RED)",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWW2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKH42"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Silver",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKH42"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHX2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Silver",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHX2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHJ2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Silver",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHJ2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWR2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Silver",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWR2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKH62"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Space Gray",
+        "storage": "16 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKH62"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKJ02"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Space Gray",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKJ02"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKHL2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Space Gray",
+        "storage": "64 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKHL2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (6th generation)",
+        "models": [
+            "MKWU2"
+        ],
+        "aNumbers": [
+            "A1574"
+        ],
+        "fccIds": [
+            "BCGA1574"
+        ],
+        "internalName": "N102AP",
+        "identifier": "iPod7,1",
+        "color": "Space Gray",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 1992.0.0.1.19",
+        "modelsSearchable": "MKWU2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHU2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Blue",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHU2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ32"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Blue",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ32"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJC2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Blue",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJC2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHT2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Gold",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHT2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ22"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Gold",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ22"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ92"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Gold",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ92"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHR2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Pink",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHR2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHY2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Pink",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHY2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ82"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Pink",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ82"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHX2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "PRODUCT(RED)",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHX2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ72"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "PRODUCT(RED)",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ72"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJF2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "PRODUCT(RED)",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJF2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHV2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Silver",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHV2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ52"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Silver",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ52"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJD2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Silver",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJD2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVHW2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Space Gray",
+        "storage": "32 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVHW2"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJ62"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Space Gray",
+        "storage": "128 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJ62"
+    },
+    {
+        "type": "iPod touch",
+        "generation": "iPod touch (7th generation)",
+        "models": [
+            "MVJE2"
+        ],
+        "aNumbers": [
+            "A2178"
+        ],
+        "fccIds": [
+            "BCGA2178"
+        ],
+        "internalName": "N112AP",
+        "identifier": "iPod9,1",
+        "color": "Space Gray",
+        "storage": "256 GB",
+        "bootrom": "Bootrom 2696.0.0.1.33",
+        "modelsSearchable": "MVJE2"
+    }
+]

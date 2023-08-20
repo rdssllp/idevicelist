@@ -1,0 +1,211 @@
+[
+    {
+        "type": "AirPods",
+        "generation": "AirPods (1st generation)",
+        "models": [
+            "MMEF2"
+        ],
+        "aNumbers": [
+            "A1523 (right AirPod)",
+            "A1722 (left AirPod)",
+            "A1602 (charging case)"
+        ],
+        "fccIds": [
+            "BCG-A1523",
+            "BCG-A1722"
+        ],
+        "internalName": "B188AP",
+        "identifier": "AirPods1,1",
+        "color": "N/A",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MMEF2"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods (2nd generation)",
+        "models": [
+            "MRXJ2",
+            "MV7N2",
+            "MR8U2"
+        ],
+        "aNumbers": [
+            "A2031 (left AirPod)",
+            "A2032 (right AirPod)",
+            "A1938 (wireless charging case)"
+        ],
+        "fccIds": [
+            "BCG-A2031",
+            "BCG-A2032"
+        ],
+        "internalName": "B288AP",
+        "identifier": "AirPods1,2AirPods2,1",
+        "color": "N/A",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MRXJ2,MV7N2,MR8U2"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods (3rd generation)",
+        "models": [
+            "MME73",
+            "MPNY3"
+        ],
+        "aNumbers": [
+            "A2564 (left AirPod)",
+            "A2565 (right AirPod)",
+            "A2566 (MagSafe charging case)"
+        ],
+        "fccIds": [
+            "BCG-A2564",
+            "BCG-A2565"
+        ],
+        "internalName": "B688AP",
+        "identifier": "AirPods1,3Audio2,1",
+        "color": "N/A",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MME73,MPNY3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Pro",
+        "models": [
+            "MWP22",
+            "MLWK3"
+        ],
+        "aNumbers": [
+            "A2083 (left AirPod)",
+            "A2084 (right AirPod)",
+            "A2190 (AirPods Pro/MagSafe charging case)"
+        ],
+        "fccIds": [
+            "BCG-A2083",
+            "BCG-A2084"
+        ],
+        "internalName": "B298AP",
+        "identifier": "AirPods2,2AirPodsPro1,1iProd8,1",
+        "color": "N/A",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MWP22,MLWK3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Pro (2nd generation)",
+        "models": [
+            "MQD83"
+        ],
+        "aNumbers": [
+            "A2699 (left AirPod)",
+            "A2698 (right AirPod)",
+            "A2700 (charging case)"
+        ],
+        "fccIds": [
+            "BCG-A2698",
+            "BCG-A2699"
+        ],
+        "internalName": "B698AP",
+        "identifier": "AirPodsPro1,2",
+        "color": "N/A",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MQD83"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Max",
+        "models": [
+            "MGYH3"
+        ],
+        "aNumbers": [
+            "A2096"
+        ],
+        "fccIds": [
+            "BCG-A2096"
+        ],
+        "internalName": "B515AP",
+        "identifier": "AirPodsMax1,1iProd8,6",
+        "color": "Space Grey",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MGYH3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Max",
+        "models": [
+            "MGYM3"
+        ],
+        "aNumbers": [
+            "A2096"
+        ],
+        "fccIds": [
+            "BCG-A2096"
+        ],
+        "internalName": "B515AP",
+        "identifier": "AirPodsMax1,1iProd8,6",
+        "color": "Pink",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MGYM3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Max",
+        "models": [
+            "MGYJ3"
+        ],
+        "aNumbers": [
+            "A2096"
+        ],
+        "fccIds": [
+            "BCG-A2096"
+        ],
+        "internalName": "B515AP",
+        "identifier": "AirPodsMax1,1iProd8,6",
+        "color": "Silver",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MGYJ3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Max",
+        "models": [
+            "MGYN3"
+        ],
+        "aNumbers": [
+            "A2096"
+        ],
+        "fccIds": [
+            "BCG-A2096"
+        ],
+        "internalName": "B515AP",
+        "identifier": "AirPodsMax1,1iProd8,6",
+        "color": "Green",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MGYN3"
+    },
+    {
+        "type": "AirPods",
+        "generation": "AirPods Max",
+        "models": [
+            "MGYL3"
+        ],
+        "aNumbers": [
+            "A2096"
+        ],
+        "fccIds": [
+            "BCG-A2096"
+        ],
+        "internalName": "B515AP",
+        "identifier": "AirPodsMax1,1iProd8,6",
+        "color": "Sky Blue",
+        "storage": "",
+        "bootrom": "Unknown",
+        "modelsSearchable": "MGYL3"
+    }
+]

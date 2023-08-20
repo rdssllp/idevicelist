@@ -1,0 +1,5024 @@
+[
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MLCJ2",
+            "MMEC2",
+            "MMF52"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "38mm",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MLCJ2,MMEC2,MMF52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MLCH2",
+            "MMF42"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MLCH2,MMF42"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ2T2",
+            "MJ2U2",
+            "MJ2V2",
+            "MJ2W2",
+            "MLCF2",
+            "MLCG2",
+            "MME92",
+            "MMF02",
+            "MMF12",
+            "MMF22",
+            "MMF32"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ2T2,MJ2U2,MJ2V2,MJ2W2,MLCF2,MLCG2,MME92,MMF02,MMF12,MMF22,MMF32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ2X2",
+            "MMF62"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ2X2,MMF62"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ2Y2",
+            "MJ3A2",
+            "MJ3E2",
+            "MJ302",
+            "MJ312",
+            "MJ322",
+            "MJ332",
+            "MJ362",
+            "MJYK2",
+            "MLCL2",
+            "MLCN2",
+            "MLCP2",
+            "MLC02",
+            "MLC22",
+            "MLC32",
+            "MLE62",
+            "MLLD2",
+            "MMF82",
+            "MMFD2",
+            "MMF92",
+            "MMFH2",
+            "MMFK2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ2Y2,MJ3A2,MJ3E2,MJ302,MJ312,MJ322,MJ332,MJ362,MJYK2,MLCL2,MLCN2,MLCP2,MLC02,MLC22,MLC32,MLE62,MLLD2,MMF82,MMFD2,MMF92,MMFH2,MMFK2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3F2",
+            "MLCK2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ3F2,MLCK2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3K2",
+            "MJ3L2",
+            "MJ8P2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ3K2,MJ3L2,MJ8P2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3G2",
+            "MKL52"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2870"
+        ],
+        "internalName": "N27aAP",
+        "identifier": "Watch1,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Yellow Gold",
+        "bootrom": "Bootrom 2098.0.0.2.4",
+        "modelsSearchable": "MJ3G2,MKL52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MLC72",
+            "MMEE2",
+            "MMFQ2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "42mm",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MLC72,MMEE2,MMFQ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MLC62",
+            "MMFP2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MLC62,MMFP2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3N2",
+            "MJ3P2",
+            "MJ3Q2",
+            "MJ3R2",
+            "MLC42",
+            "MLC52",
+            "MMED2",
+            "MMFE2",
+            "MMFL2",
+            "MMFM2",
+            "MMFN2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ3N2,MJ3P2,MJ3Q2,MJ3R2,MLC42,MLC52,MMED2,MMFE2,MMFL2,MMFM2,MMFN2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3T2",
+            "MMFR2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ3T2,MMFR2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ3U2",
+            "MJ3V2",
+            "MJ3X2",
+            "MJ3Y2",
+            "MJ402",
+            "MJ432",
+            "MJ452",
+            "MJ472",
+            "MJYN2",
+            "MLCC2",
+            "MLCD2",
+            "MLCE2",
+            "MLC92",
+            "MLFA2",
+            "MLFC2",
+            "MLLE2",
+            "MMFU2",
+            "MMFV2",
+            "MMFX2",
+            "MMG02"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ3U2,MJ3V2,MJ3X2,MJ3Y2,MJ402,MJ432,MJ452,MJ472,MJYN2,MLCC2,MLCD2,MLCE2,MLC92,MLFA2,MLFC2,MLLE2,MMFU2,MMFV2,MMFX2,MMG02"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ482",
+            "MLC82",
+            "MMG22"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ482,MLC82,MMG22"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ4A2",
+            "MLE52"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ4A2,MLE52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch (1st generation)",
+        "models": [
+            "MJ8Q2",
+            "MJVT2",
+            "MKL62",
+            "MLFH2"
+        ],
+        "aNumbers": [
+            "A1553"
+        ],
+        "fccIds": [
+            "BCG-E2871"
+        ],
+        "internalName": "N28aAP",
+        "identifier": "Watch1,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Yellow Gold",
+        "bootrom": "A1554A1638",
+        "modelsSearchable": "MJ8Q2,MJVT2,MKL62,MLFH2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNJ2",
+            "MQ102"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "BCG-E3102"
+        ],
+        "internalName": "N27dAP",
+        "identifier": "Watch2,6",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "38mm",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNJ2,MQ102"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNH2"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "BCG-E3102"
+        ],
+        "internalName": "N27dAP",
+        "identifier": "Watch2,6",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNH2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNG2"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "BCG-E3102"
+        ],
+        "internalName": "N27dAP",
+        "identifier": "Watch2,6",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNG2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MP022"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "BCG-E3102"
+        ],
+        "internalName": "N27dAP",
+        "identifier": "Watch2,6",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MP022"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNN2",
+            "MQ122"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "A1803"
+        ],
+        "internalName": "BCG-E3103",
+        "identifier": "N28dAP",
+        "color": "Gold",
+        "caseMaterial": "Watch2,7",
+        "caseSize": "42mm",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNN2,MQ122"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNM2",
+            "MQ112"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "A1803"
+        ],
+        "internalName": "BCG-E3103",
+        "identifier": "N28dAP",
+        "color": "Gold",
+        "caseMaterial": "Watch2,7",
+        "caseSize": "Rose Gold",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNM2,MQ112"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MNNL2"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "A1803"
+        ],
+        "internalName": "BCG-E3103",
+        "identifier": "N28dAP",
+        "color": "Gold",
+        "caseMaterial": "Watch2,7",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNL2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 1",
+        "models": [
+            "MP032"
+        ],
+        "aNumbers": [
+            "A1802"
+        ],
+        "fccIds": [
+            "A1803"
+        ],
+        "internalName": "BCG-E3103",
+        "identifier": "N28dAP",
+        "color": "Gold",
+        "caseMaterial": "Watch2,7",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MP032"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNP22",
+            "MNP32",
+            "MQ132"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "38mm",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNP22,MNP32,MQ132"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNNY2",
+            "MNP02"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNY2,MNP02"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNNQ2",
+            "MNNW2",
+            "MNNX2",
+            "MNYP2",
+            "MQ172"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNNQ2,MNNW2,MNNX2,MNYP2,MQ172"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNYX2",
+            "MP0D2",
+            "MP052",
+            "MP082",
+            "MQ162"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNYX2,MP0D2,MP052,MP082,MQ162"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNP42",
+            "MNP52",
+            "MNP62",
+            "MNP72",
+            "MNP82",
+            "MNP92",
+            "MNPA2",
+            "MNQ52",
+            "MNQ62",
+            "MNQ72",
+            "MNQ82",
+            "MNQ92",
+            "MQ1F2"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNP42,MNP52,MNP62,MNP72,MNP82,MNP92,MNPA2,MNQ52,MNQ62,MNQ72,MNQ82,MNQ92,MQ1F2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPD2",
+            "MNPE2",
+            "MP492"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNPD2,MNPE2,MP492"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPF2"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3104"
+        ],
+        "internalName": "N74AP",
+        "identifier": "Watch2,3",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "Bootrom 2651.0.0.1.31",
+        "modelsSearchable": "MNPF2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPN2",
+            "MNPP2",
+            "MQ152"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "42mm",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNPN2,MNPP2,MQ152"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPL2",
+            "MNPM2",
+            "MQ142"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Rose Gold",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNPL2,MNPM2,MQ142"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNNT2",
+            "MNPJ2",
+            "MNPK2",
+            "MNYQ2",
+            "MQ192"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNNT2,MNPJ2,MNPK2,MNYQ2,MQ192"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNYY2",
+            "MP0A2",
+            "MP062",
+            "MP072",
+            "MQ182"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNYY2,MP0A2,MP062,MP072,MQ182"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPR2",
+            "MNPT2",
+            "MNPU2",
+            "MNPV2",
+            "MNPW2",
+            "MNQ02",
+            "MNQ22",
+            "MNQ32",
+            "MNQC2"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNPR2,MNPT2,MNPU2,MNPV2,MNPW2,MNQ02,MNQ22,MNQ32,MNQC2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNQ12",
+            "MP4A2"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNQ12,MP4A2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 2",
+        "models": [
+            "MNPQ2"
+        ],
+        "aNumbers": [
+            "A1757",
+            "A1816"
+        ],
+        "fccIds": [
+            "BCG-E3105"
+        ],
+        "internalName": "N75AP",
+        "identifier": "Watch2,4",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "A1758A1817",
+        "modelsSearchable": "MNPQ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJQ2",
+            "MQJU2",
+            "MQKH2",
+            "MQKL2",
+            "MQQG2",
+            "MQQK2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "38mm",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJQ2,MQJU2,MQKH2,MQKL2,MQQG2,MQQK2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJN2",
+            "MQJR2",
+            "MQKF2",
+            "MQKJ2",
+            "MQL52",
+            "MQL72",
+            "MQM72",
+            "MQM92",
+            "MQQE2",
+            "MQQH2",
+            "MQR42",
+            "MQR62"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJN2,MQJR2,MQKF2,MQKJ2,MQL52,MQL72,MQM72,MQM92,MQQE2,MQQH2,MQR42,MQR62"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJP2",
+            "MQJT2",
+            "MQKK2",
+            "MQKN2",
+            "MQL62",
+            "MQL82",
+            "MQM82",
+            "MQMA2",
+            "MR2W2",
+            "MR2Y2",
+            "MR332",
+            "MQQF2",
+            "MQQJ2",
+            "MQR52",
+            "MQR72"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJP2,MQJT2,MQKK2,MQKN2,MQL62,MQL82,MQM82,MQMA2,MR2W2,MR2Y2,MR332,MQQF2,MQQJ2,MQR52,MQR72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJV2",
+            "MQLJ2",
+            "MQLK2",
+            "MQLM2",
+            "MQLN2",
+            "MQLV2",
+            "MQML2",
+            "MQMM2",
+            "MQMP2",
+            "MQMQ2",
+            "MQQL2",
+            "MQRA2",
+            "MQRE2",
+            "MQRF2",
+            "MQX92",
+            "MR1F2. MR1N2",
+            "MR212"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJV2,MQLJ2,MQLK2,MQLM2,MQLN2,MQLV2,MQML2,MQMM2,MQMP2,MQMQ2,MQQL2,MQRA2,MQRE2,MQRF2,MQX92,MR1F2. MR1N2,MR212"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJW2",
+            "MQLW2",
+            "MQQM2",
+            "MR1H2",
+            "MR1Q2",
+            "MR222"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJW2,MQLW2,MQQM2,MR1H2,MR1Q2,MR222"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQJY2",
+            "MQM32",
+            "MQQP2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQJY2,MQM32,MQQP2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK02",
+            "MQM42",
+            "MQQQ2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1860",
+            "BCG-A1889",
+            "BCG-A1890"
+        ],
+        "internalName": "N111sAP",
+        "identifier": "Watch3,1",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gray",
+        "bootrom": "Bootrom 2651.0.0.3.3",
+        "modelsSearchable": "MQK02,MQM42,MQQQ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK32",
+            "MQK72",
+            "MQKP2",
+            "MQKT2",
+            "MQQU2",
+            "MQQX2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "42mm",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQK32,MQK72,MQKP2,MQKT2,MQQU2,MQQX2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK12",
+            "MQK52",
+            "MQKM2",
+            "MQKQ2",
+            "MQLC2",
+            "MQLE2",
+            "MQME2",
+            "MQMG2",
+            "MQQR2",
+            "MQQV2",
+            "MQRG2",
+            "MQRJ2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQK12,MQK52,MQKM2,MQKQ2,MQLC2,MQLE2,MQME2,MQMG2,MQQR2,MQQV2,MQRG2,MQRJ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK22",
+            "MQK62",
+            "MQKN2",
+            "MQKR2",
+            "MQLD2",
+            "MQLF2",
+            "MQMF2",
+            "MQMH2",
+            "MQQT2",
+            "MQQW2",
+            "MR2X2",
+            "MR302",
+            "MR342",
+            "MQRH2",
+            "MQRK2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQK22,MQK62,MQKN2,MQKR2,MQLD2,MQLF2,MQMF2,MQMH2,MQQT2,MQQW2,MR2X2,MR302,MR342,MQRH2,MQRK2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK82",
+            "MQLP2",
+            "MQLQ2",
+            "MQLR2",
+            "MQLT2",
+            "MQLU2",
+            "MQLY2",
+            "MQMR2",
+            "MQMT2",
+            "MQMU2",
+            "MQMV2",
+            "MQMW2",
+            "MQQY2",
+            "MQRN2",
+            "MQRP2",
+            "MQRQ2",
+            "MQRR2",
+            "MQRT2",
+            "MQX62",
+            "MQX72",
+            "MQX92",
+            "MR1J2",
+            "MR1U2",
+            "MR232"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQK82,MQLP2,MQLQ2,MQLR2,MQLT2,MQLU2,MQLY2,MQMR2,MQMT2,MQMU2,MQMV2,MQMW2,MQQY2,MQRN2,MQRP2,MQRQ2,MQRR2,MQRT2,MQX62,MQX72,MQX92,MR1J2,MR1U2,MR232"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQK92",
+            "MQM02",
+            "MQR02",
+            "MR1L2",
+            "MR1V2",
+            "MR242"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQK92,MQM02,MQR02,MR1L2,MR1V2,MR242"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQKD2",
+            "MQM52",
+            "MQR22"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQKD2,MQM52,MQR22"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQKE2",
+            "MQM62",
+            "MQR32"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1861",
+            "BCG-A1891",
+            "BCG-A1892"
+        ],
+        "internalName": "N111bAP",
+        "identifier": "Watch3,2",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gray",
+        "bootrom": "A1861A1891A1892",
+        "modelsSearchable": "MQKE2,MQM62,MQR32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQKW2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1858"
+        ],
+        "internalName": "N121sAP",
+        "identifier": "Watch3,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "38mm",
+        "bootrom": "A1858",
+        "modelsSearchable": "MQKW2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQKU2",
+            "MQKX2"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1858"
+        ],
+        "internalName": "N121sAP",
+        "identifier": "Watch3,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1858",
+        "modelsSearchable": "MQKU2,MQKX2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQKV2",
+            "MQKY2",
+            "MR352"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1858"
+        ],
+        "internalName": "N121sAP",
+        "identifier": "Watch3,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1858",
+        "modelsSearchable": "MQKV2,MQKY2,MR352"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQL22"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1859"
+        ],
+        "internalName": "N121bAP",
+        "identifier": "Watch3,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "42mm",
+        "bootrom": "A1859",
+        "modelsSearchable": "MQL22"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQL02",
+            "MQL32"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1859"
+        ],
+        "internalName": "N121bAP",
+        "identifier": "Watch3,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1859",
+        "modelsSearchable": "MQL02,MQL32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 3",
+        "models": [
+            "MQL12",
+            "MQL42",
+            "MR362"
+        ],
+        "aNumbers": [
+            "A1860",
+            "A1889",
+            "A1890"
+        ],
+        "fccIds": [
+            "BCG-A1859"
+        ],
+        "internalName": "N121bAP",
+        "identifier": "Watch3,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1859",
+        "modelsSearchable": "MQL12,MQL42,MR362"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU682",
+            "MU692"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1977"
+        ],
+        "internalName": "N131sAP",
+        "identifier": "Watch4,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MU682,MU692"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU642",
+            "MU652",
+            "MU6H2",
+            "MU7F2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1977"
+        ],
+        "internalName": "N131sAP",
+        "identifier": "Watch4,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MU642,MU652,MU6H2,MU7F2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU662",
+            "MU672",
+            "MU6J2",
+            "MU7G2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1977"
+        ],
+        "internalName": "N131sAP",
+        "identifier": "Watch4,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MU662,MU672,MU6J2,MU7G2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU6F2",
+            "MU6G2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1978"
+        ],
+        "internalName": "N131bAP",
+        "identifier": "Watch4,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "44mm",
+        "bootrom": "A1978",
+        "modelsSearchable": "MU6F2,MU6G2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU6A2",
+            "MU6C2",
+            "MU6K2",
+            "MU7H2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1978"
+        ],
+        "internalName": "N131bAP",
+        "identifier": "Watch4,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1978",
+        "modelsSearchable": "MU6A2,MU6C2,MU6K2,MU7H2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MU6D2",
+            "MU6E2",
+            "MU6L2",
+            "MU7J2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1978"
+        ],
+        "internalName": "N131bAP",
+        "identifier": "Watch4,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1978",
+        "modelsSearchable": "MU6D2,MU6E2,MU6L2,MU7J2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUJ2",
+            "MTUK2",
+            "MTVG2",
+            "MTVH2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUJ2,MTUK2,MTVG2,MTVH2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUD2",
+            "MTUF2",
+            "MTV92",
+            "MTX72",
+            "MTVA2",
+            "MTVC2",
+            "MTX62",
+            "MTXF2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUD2,MTUF2,MTV92,MTX72,MTVA2,MTVC2,MTX62,MTXF2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUG2",
+            "MTUN2",
+            "MTX82",
+            "MTX92",
+            "MTVD2",
+            "MTVF2",
+            "MTXG2",
+            "MTXH2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUG2,MTUN2,MTX82,MTX92,MTVD2,MTVF2,MTXG2,MTXH2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUR2",
+            "MTUT2",
+            "MTVN2",
+            "MTVQ2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUR2,MTUT2,MTVN2,MTVQ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUL2",
+            "MTUM2",
+            "MU7K2",
+            "MU6R2",
+            "MU6N2",
+            "MU6Q2",
+            "MU6P2",
+            "MU6M2",
+            "MTVJ2",
+            "MTVK2",
+            "MU7L2",
+            "MU732",
+            "MU702",
+            "MU722",
+            "MU712",
+            "MU6Y2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUL2,MTUM2,MU7K2,MU6R2,MU6N2,MU6Q2,MU6P2,MU6M2,MTVJ2,MTVK2,MU7L2,MU732,MU702,MU722,MU712,MU6Y2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUN2",
+            "MTUQ2",
+            "MTVL2",
+            "MTVM2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG-A1975",
+            "BCG-A2007"
+        ],
+        "internalName": "N141sAP",
+        "identifier": "Watch4,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A1975A2007",
+        "modelsSearchable": "MTUN2,MTUQ2,MTVL2,MTVM2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTV02",
+            "MTV12",
+            "MTVW2",
+            "MTVX2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "44mm",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTV02,MTV12,MTVW2,MTVX2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUU2",
+            "MTUV2",
+            "MU6X2",
+            "MTXC2",
+            "MTXA2",
+            "MTVR2",
+            "MTVT2",
+            "MTXK2",
+            "MTXJ2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTUU2,MTUV2,MU6X2,MTXC2,MTXA2,MTVR2,MTVT2,MTXK2,MTXJ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTUW2",
+            "MTUX2",
+            "MTXE2",
+            "MTXD2",
+            "MTVU2",
+            "MTVV2",
+            "MTXM2",
+            "MTXL2"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTUW2,MTUX2,MTXE2,MTXD2,MTVU2,MTVV2,MTXM2,MTXL2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTV72",
+            "MTV82",
+            "MTX42",
+            "MTX52"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTV72,MTV82,MTX42,MTX52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTV22",
+            "MTV42",
+            "MU6W2",
+            "MU6V2",
+            "MU9D2",
+            "MU9D2",
+            "MU6U2",
+            "MU6T2",
+            "MU782",
+            "MU772",
+            "MU762",
+            "MU9E2",
+            "MU752",
+            "MU742"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTV22,MTV42,MU6W2,MU6V2,MU9D2,MU9D2,MU6U2,MU6T2,MU782,MU772,MU762,MU9E2,MU752,MU742"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 4",
+        "models": [
+            "MTV52",
+            "MTV62",
+            "MTX22",
+            "MTX32"
+        ],
+        "aNumbers": [
+            "A1977"
+        ],
+        "fccIds": [
+            "BCG‑A1976",
+            "BCG-A2008"
+        ],
+        "internalName": "N141bAP",
+        "identifier": "Watch4,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A1976A2008",
+        "modelsSearchable": "MTV52,MTV62,MTX22,MTX32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWRY2",
+            "MWV72"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2092"
+        ],
+        "internalName": "N144sAP",
+        "identifier": "Watch5,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MWRY2,MWV72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWRX2",
+            "MX3R2",
+            "MWV62"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2092"
+        ],
+        "internalName": "N144sAP",
+        "identifier": "Watch5,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MWRX2,MX3R2,MWV62"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWT02",
+            "MWV82"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2092"
+        ],
+        "internalName": "N144sAP",
+        "identifier": "Watch5,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "Bootrom 3988.0.0.2.12",
+        "modelsSearchable": "MWT02,MWV82"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWT42"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2093"
+        ],
+        "internalName": "N144bAP",
+        "identifier": "Watch5,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "44mm",
+        "bootrom": "A2093",
+        "modelsSearchable": "MWT42"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWVD2",
+            "MX3V2",
+            "MWT62",
+            "MWT32"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2093"
+        ],
+        "internalName": "N144bAP",
+        "identifier": "Watch5,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2093",
+        "modelsSearchable": "MWVD2,MX3V2,MWT62,MWT32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWT52",
+            "MWVF2",
+            "MWT72"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2093"
+        ],
+        "internalName": "N144bAP",
+        "identifier": "Watch5,2",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A2093",
+        "modelsSearchable": "MWT52,MWVF2,MWT72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWPU2",
+            "MWQ72"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWPU2,MWQ72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWWN2",
+            "MWX12",
+            "MX372",
+            "MX3C2",
+            "MWPT2",
+            "MWQ62",
+            "MWQG2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWWN2,MWX12,MX372,MX3C2,MWPT2,MWQ62,MWQG2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWPV2",
+            "MWQ82",
+            "MWWQ2",
+            "MWX32",
+            "MWQ42",
+            "MWQH2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWPV2,MWQ82,MWWQ2,MWX32,MWQ42,MWQH2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWPW2",
+            "MWX62",
+            "MWWV2",
+            "MWWU2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWPW2,MWX62,MWWV2,MWWU2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWPX2",
+            "MWQA2",
+            "MX5L2",
+            "MX5K2",
+            "MWWT2",
+            "MWX52",
+            "MWQJ2",
+            "MX5M2",
+            "MX5N2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Stainless Steel",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWPX2,MWQA2,MX5L2,MX5K2,MWWT2,MWX52,MWQJ2,MX5M2,MX5N2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWPY2",
+            "MWQC2",
+            "MWX02",
+            "MWXC2",
+            "MWXA2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWPY2,MWQC2,MWX02,MWXC2,MWXA2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQ12",
+            "MWQE2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWQ12,MWQE2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQ02",
+            "MWQD2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWQ02,MWQD2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQ22",
+            "MWQF2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2094",
+            "BCG-A2156"
+        ],
+        "internalName": "N146sAP",
+        "identifier": "Watch5,3",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "A2094A2156",
+        "modelsSearchable": "MWQ22,MWQF2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQL2",
+            "MWR02"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "44mm",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQL2,MWR02"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWVY2",
+            "MWWC2",
+            "MX392",
+            "MX3E2",
+            "MWQV2",
+            "MXR12",
+            "MWQK2",
+            "MWQY2",
+            "MWR82"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWVY2,MWWC2,MX392,MX3E2,MWQV2,MXR12,MWQK2,MWQY2,MWR82"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQM2",
+            "MWR12",
+            "MWW12",
+            "MWWE2",
+            "MWQW2",
+            "MX3A2",
+            "MWR92"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQM2,MWR12,MWW12,MWWE2,MWQW2,MX3A2,MWR92"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQN2",
+            "MWWH2",
+            "MWW62",
+            "MWW52",
+            "MWR22",
+            "MWWJ2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQN2,MWWH2,MWW62,MWW52,MWR22,MWWJ2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQP2",
+            "MWR32",
+            "MWQX2",
+            "MWW32",
+            "MWWG2",
+            "MWRA2",
+            "MX5C2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Stainless Steel",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQP2,MWR32,MWQX2,MWW32,MWWG2,MWRA2,MX5C2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQQ2",
+            "MWR42",
+            "MWW92",
+            "MWWM2"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQQ2,MWR42,MWW92,MWWM2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQT2",
+            "MWR62"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQT2,MWR62"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQR2",
+            "MWR52"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQR2,MWR52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 5",
+        "models": [
+            "MWQU2",
+            "MWR72"
+        ],
+        "aNumbers": [
+            "A2092"
+        ],
+        "fccIds": [
+            "BCG-A2095",
+            "BCG-A2157"
+        ],
+        "internalName": "N146bAP",
+        "identifier": "Watch5,4",
+        "color": "Ceramic",
+        "caseMaterial": "Aluminium",
+        "caseSize": "White",
+        "bootrom": "A2095A2157",
+        "modelsSearchable": "MWQU2,MWR72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYDY2"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "BCG-A2351"
+        ],
+        "internalName": "N140sAP",
+        "identifier": "Watch5,9",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "?",
+        "modelsSearchable": "MYDY2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYDX2"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "BCG-A2351"
+        ],
+        "internalName": "N140sAP",
+        "identifier": "Watch5,9",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "MYDX2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYE02"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "BCG-A2351"
+        ],
+        "internalName": "N140sAP",
+        "identifier": "Watch5,9",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "MYE02"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYE22"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2352"
+        ],
+        "internalName": "BCG-A2352",
+        "identifier": "N140bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,10",
+        "caseSize": "44mm",
+        "bootrom": "?",
+        "modelsSearchable": "MYE22"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYE12"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2352"
+        ],
+        "internalName": "BCG-A2352",
+        "identifier": "N140bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,10",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "MYE12"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYE32"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2352"
+        ],
+        "internalName": "BCG-A2352",
+        "identifier": "N140bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,10",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "MYE32"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYF32",
+            "MYF62"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2353",
+            "A2355"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142sAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,11",
+        "caseSize": "40mm",
+        "bootrom": "?",
+        "modelsSearchable": "MYF32,MYF62"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYF22",
+            "MYF52"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2353",
+            "A2355"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142sAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,11",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "MYF22,MYF52"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYF42",
+            "MYF72"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2353",
+            "A2355"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142sAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,11",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "MYF42,MYF72"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYF92",
+            "MYFD2"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2354",
+            "A2356"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,12",
+        "caseSize": "44mm",
+        "bootrom": "?",
+        "modelsSearchable": "MYF92,MYFD2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYF82",
+            "MYFC2"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2354",
+            "A2356"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,12",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "MYF82,MYFC2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch SE",
+        "models": [
+            "MYFA2",
+            "MYFE2"
+        ],
+        "aNumbers": [
+            "A2351"
+        ],
+        "fccIds": [
+            "A2354",
+            "A2356"
+        ],
+        "internalName": "BCG-A2353BCG-A2355",
+        "identifier": "N142bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch5,12",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "MYFA2,MYFE2"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "MG193"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2292"
+        ],
+        "internalName": "N157sAP",
+        "identifier": "Watch6,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "?",
+        "modelsSearchable": "MG193"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "MG183"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2292"
+        ],
+        "internalName": "N157sAP",
+        "identifier": "Watch6,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "MG183"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "MG1A3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2292"
+        ],
+        "internalName": "N157sAP",
+        "identifier": "Watch6,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "MG1A3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "MG2A3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2292"
+        ],
+        "internalName": "N157sAP",
+        "identifier": "Watch6,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "?",
+        "modelsSearchable": "MG2A3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02C3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2292"
+        ],
+        "internalName": "N157sAP",
+        "identifier": "Watch6,1",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "?",
+        "modelsSearchable": "M02C3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02E3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "A2292"
+        ],
+        "internalName": "BCG-A2292",
+        "identifier": "N157bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch6,2",
+        "caseSize": "44mm",
+        "bootrom": "?",
+        "modelsSearchable": "M02E3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02D3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "A2292"
+        ],
+        "internalName": "BCG-A2292",
+        "identifier": "N157bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch6,2",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "M02D3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02F3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "A2292"
+        ],
+        "internalName": "BCG-A2292",
+        "identifier": "N157bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch6,2",
+        "caseSize": "Space Gray",
+        "bootrom": "?",
+        "modelsSearchable": "M02F3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02G3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "A2292"
+        ],
+        "internalName": "BCG-A2292",
+        "identifier": "N157bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch6,2",
+        "caseSize": "Blue",
+        "bootrom": "?",
+        "modelsSearchable": "M02G3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M02H3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "A2292"
+        ],
+        "internalName": "BCG-A2292",
+        "identifier": "N157bAP",
+        "color": "Gold",
+        "caseMaterial": "Watch6,2",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "?",
+        "modelsSearchable": "M02H3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DP3",
+            "M0D53"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "40mm",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DP3,M0D53"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DM3",
+            "M0D23"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DM3,M0D23"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DQ3",
+            "M0D63"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DQ3,M0D63"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DR3",
+            "M0D73"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DR3,M0D73"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DT3",
+            "M0D83"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DT3,M0D83"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DU3",
+            "M0D93"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DU3,M0D93"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DV3",
+            "M0DC3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DV3,M0DC3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DW3",
+            "M0DF3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Graphite",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DW3,M0DF3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "MG363",
+            "MG303"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "MG363,MG303"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DY3",
+            "M0DH3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DY3,M0DH3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0DX3",
+            "M0DG3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2293",
+            "BCG-A2375"
+        ],
+        "internalName": "N158sAP",
+        "identifier": "Watch6,3",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2293A2375",
+        "modelsSearchable": "M0DX3,M0DG3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GQ3",
+            "M0G73"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "44mm",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GQ3,M0G73"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GP3",
+            "M0G63"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GP3,M0G63"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GR3",
+            "M0G83"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Gray",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GR3,M0G83"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GT3",
+            "M0G93"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GT3,M0G93"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GU3",
+            "M0GC3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Gold",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GU3,M0GC3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GV3",
+            "M0GD3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GV3,M0GD3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GW3",
+            "M0GF3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GW3,M0GF3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0GX3",
+            "M0GG3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Graphite",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0GX3,M0GG3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0H23",
+            "M0GJ3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0H23,M0GJ3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 6",
+        "models": [
+            "M0H13",
+            "M0GH3"
+        ],
+        "aNumbers": [
+            "A2291"
+        ],
+        "fccIds": [
+            "BCG-A2294",
+            "BCG-A2376"
+        ],
+        "internalName": "N158bAP",
+        "identifier": "Watch6,4",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2294A2376",
+        "modelsSearchable": "M0H13,M0GH3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNF3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2473"
+        ],
+        "internalName": "N187sAP",
+        "identifier": "Watch6,6",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "41mm",
+        "bootrom": "?",
+        "modelsSearchable": "MKNF3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNP3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2473"
+        ],
+        "internalName": "N187sAP",
+        "identifier": "Watch6,6",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "MKNP3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKMX3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2473"
+        ],
+        "internalName": "N187sAP",
+        "identifier": "Watch6,6",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Midnight",
+        "bootrom": "?",
+        "modelsSearchable": "MKMX3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNH3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2473"
+        ],
+        "internalName": "N187sAP",
+        "identifier": "Watch6,6",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "?",
+        "modelsSearchable": "MKNH3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNJ3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2473"
+        ],
+        "internalName": "N187sAP",
+        "identifier": "Watch6,6",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "?",
+        "modelsSearchable": "MKNJ3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNQ3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "A2474"
+        ],
+        "internalName": "BCG-A2474",
+        "identifier": "N187bAP",
+        "color": "Green",
+        "caseMaterial": "Watch6,7",
+        "caseSize": "45mm",
+        "bootrom": "?",
+        "modelsSearchable": "MKNQ3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNP3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "A2474"
+        ],
+        "internalName": "BCG-A2474",
+        "identifier": "N187bAP",
+        "color": "Green",
+        "caseMaterial": "Watch6,7",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "MKNP3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKN53"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "A2474"
+        ],
+        "internalName": "BCG-A2474",
+        "identifier": "N187bAP",
+        "color": "Green",
+        "caseMaterial": "Watch6,7",
+        "caseSize": "Midnight",
+        "bootrom": "?",
+        "modelsSearchable": "MKN53"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNR3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "A2474"
+        ],
+        "internalName": "BCG-A2474",
+        "identifier": "N187bAP",
+        "color": "Green",
+        "caseMaterial": "Watch6,7",
+        "caseSize": "Blue",
+        "bootrom": "?",
+        "modelsSearchable": "MKNR3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKNT3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "A2474"
+        ],
+        "internalName": "BCG-A2474",
+        "identifier": "N187bAP",
+        "color": "Green",
+        "caseMaterial": "Watch6,7",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "?",
+        "modelsSearchable": "MKNT3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLA3",
+            "MKLP3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "41mm",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLA3,MKLP3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKL93",
+            "MKLN3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Starlight",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKL93,MKLN3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKH73",
+            "MKHQ3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Midnight",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKH73,MKHQ3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLC3",
+            "MKLQ3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLC3,MKLQ3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLD3",
+            "MKLR3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLD3,MKLR3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLE3",
+            "MKLT3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLE3,MKLT3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLF3",
+            "MKHX3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLF3,MKHX3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKHK3",
+            "MKJ23"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Graphite",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKHK3,MKJ23"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKLL3",
+            "MKM23"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "MKLL3,MKM23"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "ML8U3",
+            "ML913"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "ML8U3,ML913"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "ML8V3",
+            "ML903"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2475",
+            "BCG-A2476"
+        ],
+        "internalName": "N188sAP",
+        "identifier": "Watch6,8",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2475A2476",
+        "modelsSearchable": "ML8V3,ML903"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKM63",
+            "MKML3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "45mm",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKM63,MKML3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKM53",
+            "MKMK3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Starlight",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKM53,MKMK3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKJ73",
+            "MKJP3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Midnight",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKJ73,MKJP3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKM73",
+            "MKMM3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Blue",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKM73,MKMM3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKM83",
+            "MKMN3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Green",
+        "caseMaterial": "Aluminium",
+        "caseSize": "PRODUCT(RED)",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKM83,MKMN3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKM93",
+            "ML7W3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Gold",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKM93,ML7W3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKJE3",
+            "MKJW3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Silver",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKJE3,MKJW3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKJJ3",
+            "MKL33"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Graphite",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKJJ3,MKL33"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "MKMH3",
+            "MKMW3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "MKMH3,MKMW3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "ML8W3",
+            "ML8Y3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Titanium",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "ML8W3,ML8Y3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 7",
+        "models": [
+            "ML8V3",
+            "ML8X3"
+        ],
+        "aNumbers": [
+            "A2473"
+        ],
+        "fccIds": [
+            "BCG-A2477",
+            "BCG-A2478"
+        ],
+        "internalName": "N188bAP",
+        "identifier": "Watch6,9",
+        "color": "Titanium",
+        "caseMaterial": "Aluminium",
+        "caseSize": "Space Black",
+        "bootrom": "A2477A2478",
+        "modelsSearchable": "ML8V3,ML8X3"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143sAP",
+        "identifier": "Watch6,10",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "41mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143sAP",
+        "identifier": "Watch6,10",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143sAP",
+        "identifier": "Watch6,10",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143bAP",
+        "identifier": "Watch6,11",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "45mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143bAP",
+        "identifier": "Watch6,11",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N143bAP",
+        "identifier": "Watch6,11",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149sAP",
+        "identifier": "Watch6,12",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "41mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149sAP",
+        "identifier": "Watch6,12",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149sAP",
+        "identifier": "Watch6,12",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149bAP",
+        "identifier": "Watch6,13",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "45mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149bAP",
+        "identifier": "Watch6,13",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "SE (2nd generation)",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "N149bAP",
+        "identifier": "Watch6,13",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "41mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "(PRODUCT)RED",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Gold",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Graphite",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,14",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Space Black",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "45mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "(PRODUCT)RED",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Gold",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Graphite",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,15",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Space Black",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "41mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "(PRODUCT)RED",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Gold",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Graphite",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,16",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Space Black",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "45mm",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Starlight",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Midnight",
+        "caseMaterial": "Aluminum",
+        "caseSize": "(PRODUCT)RED",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Gold",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Silver",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Graphite",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Series 8",
+        "models": [
+            "?"
+        ],
+        "aNumbers": [
+            "?"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "Watch6,17",
+        "color": "Stainless Steel",
+        "caseMaterial": "Aluminum",
+        "caseSize": "Space Black",
+        "bootrom": "?",
+        "modelsSearchable": "?"
+    },
+    {
+        "type": "Apple Watch",
+        "generation": "Apple Watch Ultra",
+        "models": [
+            "MQFY3",
+            "MQG03",
+            "MQG13"
+        ],
+        "aNumbers": [
+            "Apple Watch Ultra"
+        ],
+        "fccIds": [
+            "?"
+        ],
+        "internalName": "?",
+        "identifier": "N199AP",
+        "color": "Titanium",
+        "caseMaterial": "Watch6,18",
+        "caseSize": "49mm",
+        "bootrom": "?",
+        "modelsSearchable": "MQFY3,MQG03,MQG13"
+    }
+]
